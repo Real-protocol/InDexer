@@ -1,0 +1,8 @@
+node_modules
+cache
+artifacts/
+.env
+scripts/deploy2.js
+slither
+coverage/
+coverage.json
